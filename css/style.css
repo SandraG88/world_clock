@@ -1,12 +1,12 @@
 body {
-    background-color: #f9f7fe;
-    font-family: sans-serif;
+    background-color: radial-gradient(circle at 50.3% 44.5%, rgb(116, 147, 179) 0%, rgb(62, 83, 104) 100.2%);
+    font-family: canvas;
 }
 
 h1 {
     text-align: center;
-    font-family: sans-serif;
-    font-size: 36px;
+    font-family: canvas;
+    font-size: 40px;
 }
 
 h2 {
